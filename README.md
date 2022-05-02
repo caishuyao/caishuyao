@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caishuyao
 - 👀 I’m interested in coding. Being a full stack developer, from javascript to java.
-- 🌱 I’m currently learning data science. Like machine learning, deep learning, python and so on.
+- 🌱 I’m currently learning data science. Machine learning, deep learning, python and so on.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me.  my gmail account：   caishuyao 
 
